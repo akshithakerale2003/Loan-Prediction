@@ -21,6 +21,22 @@ Loan approval prediction (Yes/No)
 
 Accuracy comparison of multiple ML algorithms
 
+
+🛠️ Technologies Used
+
+Python
+
+Pandas – Data manipulation
+
+NumPy – Numerical computations
+
+Matplotlib / Seaborn – Data visualization
+
+Scikit-learn – Machine learning models
+
+Jupyter Notebook
+
+
 🎯 Objective
 
 To build a predictive model that helps banks and financial institutions quickly determine loan eligibility based on applicant information.
